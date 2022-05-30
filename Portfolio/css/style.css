@@ -621,6 +621,24 @@ h3.my-profession
     font-weight: 600;
     /* margin-bottom: 1rem; */
 }
+
+#mystyleimage{
+    margin-top:80px;
+    height: 350px;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-image: url("https://img.freepik.com/free-vector/education-horizontal-typography-banner-set-with-learning-knowledge-symbols-flat-illustration_1284-29493.jpg?size=626&ext=jpg&ga=GA1.2.1784279223.1653819023");
+}
+@media  (max-width: 500px) {
+    #mystyleimage{
+        height: 280px;
+        width: 100%;
+    }
+}
+
 .EDUCATION .edu_cont {
     /* margin-bottom: 10px; */
     border: 5px solid var(--bg-black-900);
@@ -630,8 +648,15 @@ h3.my-profession
     width: 60%;
     margin-left: 21%;
     text-align: center;
-    background-color: rgb(169, 247, 247);
+    background: linear-gradient(to right, rgb(242, 112, 156), rgb(255, 148, 114));
 }
+@media  (max-width: 500px) {
+    .EDUCATION .edu_cont{
+        margin-top: 10px;
+        margin-left: 0px;
+        width: 100%;
+    }
+  }
 .eduupdate{
     display: flex;
     flex-direction: column;
@@ -736,10 +761,30 @@ h3.my-profession
     color: var(--text-black-900);
     font-weight: 500;
 }
+
+#myportfolioimage{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 100% 100%;
+    background-image: url("https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?t=st=1653824542~exp=1653825142~hmac=f90204af0c5a374b16ff58c19805563f76f9234e6ac6363d43129fd2eb3bb339&w=900");
+     height: 350px; 
+     width:100%;
+}
+
+@media  (max-width: 500px) {
+    #myportfolioimage{
+     height: 280px; 
+     width:100%;
+    }
+}
+
 .portfolio .portfolio-item
 {
-    flex: 0 0 33.33%;
-    max-width: 33.33%;
+    flex: 1 1 ;
+    max-width: 50%;
+    /* display:grid;
+    grid-template-columns: repeat(2,45%); */
     margin-bottom: 30px;
 }
 .portfolio .portfolio-item-inner
@@ -748,14 +793,23 @@ h3.my-profession
     border-radius: 10px;
     overflow: hidden;
     cursor: pointer;
-    height: 700px;
+    height: 800px;
+    /* width: 500px; */
     text-align: center;
 }
 .portfolio .portfolio-item-inner .portfolio-img > img
 {
     width: 100%;
-    height: 200px;
+    height: 300px;
     display: block;
+}
+@media  (max-width: 500px) {
+    .portfolio .portfolio-item-inner .portfolio-img > img
+    {
+        width: 100%;
+        height: 210px;
+        display: block;
+    }  
 }
 
 /* contact */
@@ -1000,6 +1054,8 @@ h3.my-profession
     }
     .EDUCATION .edu_cont{
         margin-top: 10px;
+        margin-left: 0px;
+        width: 100%;
     }
 }
 
