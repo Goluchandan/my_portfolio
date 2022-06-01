@@ -754,6 +754,7 @@ h3.my-profession
 {
     flex: 0 0 100%;
     max-width: 100%;
+    
     margin-bottom: 40px;
 }
 .portfolio .portfolio-heading h2
@@ -782,7 +783,10 @@ h3.my-profession
 .portfolio .portfolio-item
 {
     flex: 1 1 ;
+   
     max-width: 50%;
+    /* display:grid;
+    grid-template-columns:repeat(2,1fr); */
     /* display:grid;
     grid-template-columns: repeat(2,45%); */
     margin-bottom: 30px;
