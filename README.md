@@ -1,2 +1,3 @@
-# my_portfolio
-new_repo
+Hi 👋,
+I'am chandan Kumar
+Full Stack Web Developer
