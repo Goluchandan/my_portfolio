@@ -19,10 +19,12 @@
  
 ![Screenshot (369)](https://user-images.githubusercontent.com/99709975/171658580-56a3d32d-89fd-47e2-b876-8904e6f2818f.png)
 
-  ![Screenshot (370)](https://user-images.githubusercontent.com/99709975/171659623-3c84b629-cc09-4adf-9ea3-43506d2b38ca.png)
 <h3>**About Me**</h3>
- 
+
+  ![Screenshot (370)](https://user-images.githubusercontent.com/99709975/171659623-3c84b629-cc09-4adf-9ea3-43506d2b38ca.png)
+
   <h3>**Education**</h3>
+  ![Screenshot (371)](https://user-images.githubusercontent.com/99709975/171660757-122619be-6b6f-4d8b-b0fe-aac65fdaa2fd.png)
 
   <h3>**Contact Me**</h3>
   
