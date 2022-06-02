@@ -2,7 +2,7 @@
 <h3> I'am chandan Kumar </h3>
 <h3> Full Stack Web Developer ,</h3>
 
-<h3> Deployed link (https://goluchandan.netlify.app/)</h3>
+
 
 <h4>About my portfolio: 🙌</h4>
 <p>In this portfolio I have added my Contact Details & Education Details & Documentation & Skills & projects That I  worked with Team & About Myself</p>   
@@ -12,6 +12,9 @@
 <p>- HTML</p>
 <p>- CSS</p>
 <p>- Javascript - (DOM Manipulation, Local Storage, ES6, import-export, DSA)</p>
+
+<h1> Deployed link </h1>
+<h3> (https://goluchandan.netlify.app/) </h3>
 
 <h1>Screenshots :</h1>
  
