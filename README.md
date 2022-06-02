@@ -20,10 +20,11 @@
 ![Screenshot (369)](https://user-images.githubusercontent.com/99709975/171658580-56a3d32d-89fd-47e2-b876-8904e6f2818f.png)
 
   <h3>**About Me**</h3>
-  ![Screenshot (370)](https://user-images.githubusercontent.com/99709975/171658455-4e7aea1f-8765-4d10-b9c5-a77db16ed726.png)
+  ![Screenshot (370)](https://user-images.githubusercontent.com/99709975/171659371-8642885d-d9e5-4181-a526-31d64c2d89fc.png)
   <h3>**Education**</h3>
-  ![Screenshot (371)](https://user-images.githubusercontent.com/99709975/171658671-1bc10387-899d-4dd4-9b4c-557314f7f968.png)
+
   <h3>**Contact Me**</h3>
   
 ![Screenshot (373)](https://user-images.githubusercontent.com/99709975/171659075-2b45c628-3e6d-4289-b973-828e87e7a0fe.png)
+
 
