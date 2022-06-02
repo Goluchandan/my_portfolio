@@ -19,8 +19,9 @@
  
 ![Screenshot (369)](https://user-images.githubusercontent.com/99709975/171658580-56a3d32d-89fd-47e2-b876-8904e6f2818f.png)
 
-  <h3>**About Me**</h3>
-  ![Screenshot (370)](https://user-images.githubusercontent.com/99709975/171659371-8642885d-d9e5-4181-a526-31d64c2d89fc.png)
+  ![Screenshot (370)](https://user-images.githubusercontent.com/99709975/171659623-3c84b629-cc09-4adf-9ea3-43506d2b38ca.png)
+<h3>**About Me**</h3>
+ 
   <h3>**Education**</h3>
 
   <h3>**Contact Me**</h3>
