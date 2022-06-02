@@ -24,7 +24,8 @@
   ![Screenshot (370)](https://user-images.githubusercontent.com/99709975/171659623-3c84b629-cc09-4adf-9ea3-43506d2b38ca.png)
 
   <h3>**Education**</h3>
-![Screenshot (371)](https://user-images.githubusercontent.com/99709975/171660964-57181d2e-1c8d-4189-a8d1-dc9137b84ef4.png)
+
+![Screenshot (371)](https://user-images.githubusercontent.com/99709975/171663286-0e5eadee-614d-4366-b5d8-411fc486b963.png)
   
   
 
